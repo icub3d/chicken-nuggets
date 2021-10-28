@@ -1,2 +1,2 @@
 zip:
-	zip -r chicken-nuggets.zip assets pack.mcmeta pack.png
+	zip -r chicken-nuggets.zip assets data pack.mcmeta pack.png
